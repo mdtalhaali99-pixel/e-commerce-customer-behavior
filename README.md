@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Customer Behaviour Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -170,3 +171,6 @@ This project is licensed under the [MIT License](LICENSE).
 Built as part of a Data Analytics / Business Analytics internship project to demonstrate practical skills in data cleaning, exploratory analysis, customer segmentation, and machine learning applied to e-commerce data.
 
 If you found this useful, feel free to ⭐ the repo!
+=======
+# e-commerce-customer-behavior
+>>>>>>> c040a6975363f95991769b05931e8b0afd35c8e2
